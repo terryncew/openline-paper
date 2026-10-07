@@ -5,7 +5,10 @@
 **Receiver-Owned Authority for AI Agents: Portable Mandates, Receiver Enforcement, and Verifiable Receipts**
 Terrynce White
 
-DOI: pending (Zenodo archiving in progress — this line gets the version DOI once minted)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23219814.svg)](https://doi.org/10.5281/zenodo.23219814)
+
+- Version DOI (Paper I v1.0, frozen 2026-10-07): https://doi.org/10.5281/zenodo.23219814
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.23219813
 
 - Frozen release: https://github.com/terryncew/openline-paper/releases/tag/v1.0
 - Read the paper: [draft.md](draft.md) (v1.0 tag)
@@ -21,7 +24,7 @@ To cite the OpenLine paper generally across future versions, use the concept DOI
 ```
 White, Terrynce (2026). Receiver-Owned Authority for AI Agents:
 Portable Mandates, Receiver Enforcement, and Verifiable Receipts.
-OpenLine Paper I, v1.0. DOI: [pending]
+OpenLine Paper I, v1.0. https://doi.org/10.5281/zenodo.23219814
 ```
 
 This paper is experimental research, not peer reviewed. Every empirical claim traces to the evidence ledger.

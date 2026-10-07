@@ -11,6 +11,7 @@ authors:
     given-names: Terrynce
 version: "1.0"
 date-released: 2026-10-07
+doi: 10.5281/zenodo.23219814
 repository-code: "https://github.com/terryncew/openline-paper"
 url: "https://github.com/terryncew/openline-paper/releases/tag/v1.0"
 keywords:
