@@ -1,0 +1,22 @@
+# Citation metadata for the OpenLine technical paper series.
+# This file lives on the main branch only. It is NOT part of the frozen v1.0 tag.
+# Zenodo reads it when archiving future GitHub releases.
+# The version DOI (once minted) goes in the `doi` field below.
+cff-version: 1.2.0
+title: "Receiver-Owned Authority for AI Agents: Portable Mandates, Receiver Enforcement, and Verifiable Receipts"
+message: "If you use this paper, please cite it as below."
+type: article
+authors:
+  - family-names: White
+    given-names: Terrynce
+version: "1.0"
+date-released: 2026-10-07
+repository-code: "https://github.com/terryncew/openline-paper"
+url: "https://github.com/terryncew/openline-paper/releases/tag/v1.0"
+keywords:
+  - AI agents
+  - authorization
+  - receiver enforcement
+  - portable authority
+  - revocation
+  - verifiable receipts
