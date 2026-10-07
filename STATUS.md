@@ -13,6 +13,16 @@ Freeze-time decisions:
 
 Checksums: `FROZEN-v1.0-SHA256SUMS.txt` (sha256 of all ten files below).
 
+## Public location (permanent)
+
+- Repo: https://github.com/terryncew/openline-paper (public, created 2026-10-07)
+- Commit: `7bcc3540d2e64846bdacc7fbca1b0a7615ee895c` ("Paper I v1.0 (2026-10-07): Receiver-Owned Authority for AI Agents — FROZEN")
+- Tag: `v1.0` → `7bcc3540d2e64846bdacc7fbca1b0a7615ee895c`
+- Release: https://github.com/terryncew/openline-paper/releases/tag/v1.0
+- Draft sha256: `55f9c277dc79b1322f98fc5fb513bd0be58d62243fbecbe7b7dec265cf7d37a3`
+
+Paper I is the receipt: this architecture and these results existed before the next round of industry convergence. Every outside event from here is new evidence against or for this frozen record.
+
 ## Deliverables
 
 | ID | Deliverable | Status | File |
